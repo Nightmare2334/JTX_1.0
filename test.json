@@ -1,0 +1,32 @@
+[
+    {
+        "fault_devel": 3,
+        "code": 30800005,
+        "descr": "正前方传感器未连接"
+    },
+    {
+        "fault_devel": 3,
+        "code": 30800006,
+        "descr": "正后方传感器未连接"
+    },
+    {
+        "fault_devel": 4,
+        "code": 40800000,
+        "descr": "无法打开超声设备串口"
+    },
+    {
+        "fault_devel": 4,
+        "code": 40800003,
+        "descr": "无法打开降温设备接口"
+    },
+    {
+        "fault_devel": 5,
+        "code": 50600404,
+        "descr": "与设备失去连接"
+    },
+    {
+        "fault_devel": 5,
+        "code": 50800003,
+        "descr": "心率传感器已断开连接"
+    }
+]
